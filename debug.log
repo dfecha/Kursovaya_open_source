@@ -1,0 +1,17 @@
+
+ERROR:root:Произошло исключение: division by zero
+ERROR:root:Информация об исключении: Traceback (most recent call last):
+  File "C:\Users\dfech\PycharmProjects\pythonProject5\main.py", line 21, in <module>
+    result = complex_math_operation(x, y, z)
+  File "C:\Users\dfech\PycharmProjects\pythonProject5\main.py", line 7, in complex_math_operation
+    result = x / y
+ZeroDivisionError: division by zero
+
+ERROR:root:Произошло исключение: division by zero
+ERROR:root:Информация об исключении: Traceback (most recent call last):
+  File "C:\Users\dfech\PycharmProjects\pythonProject5\main.py", line 21, in <module>
+    result = complex_math_operation(x, y, z)
+  File "C:\Users\dfech\PycharmProjects\pythonProject5\main.py", line 7, in complex_math_operation
+    result = x / y
+ZeroDivisionError: division by zero
+
